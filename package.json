@@ -1,0 +1,11 @@
+{
+  "name": "add-comma",
+  "version": "5.0.2",
+  "description": "Adds comma to the end of the line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bravokeyl",
+  "license": "ISC"
+}
